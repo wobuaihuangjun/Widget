@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="dimen_pull_up_gap_4">25px</dimen>
+
+</resources>
